@@ -1,1 +1,3 @@
 Creando una Pagina WEB - Para la practica de la Clase Geoinformación WEB
+Paso dos para verificar los cambios desde git
+quiero ver los cambios
