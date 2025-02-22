@@ -1,2 +1,4 @@
-Creando una Pagina WEB - Para la practica de la Clase Geoinformación WEB
-generar cambios para un conflicto en la prctica
+Creando una Pagina WEB - Para la practica de la Clase Geo información WEB
+generar cambios para un conflicto en la práctica
+Paso dos para verificar los cambios desde git
+quiero ver los cambios
